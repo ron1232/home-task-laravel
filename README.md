@@ -1,5 +1,5 @@
 Setup & Run Project:
-1. create database named "home_task" in mysql
+1. create database named "home-task" in mysql
 2. composer install
 3. npm install
 4. npm run dev
